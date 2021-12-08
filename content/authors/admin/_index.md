@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Bighetti
+title: Gabriel Bras-Nevares
 
 # Is this the primary user of the site?
 superuser: true
