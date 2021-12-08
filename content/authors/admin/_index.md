@@ -14,7 +14,7 @@ organizations:
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Hollywood production, political communication, and documentary filmmaking.
 
 # Interests to show in About widget
 interests:
@@ -61,14 +61,14 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "gabobras@gwu.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Gabriel Bras-Nevares is a student of Journalism and Mass Communication at The George Washington University's School of Media and Public Affairs. He currently works as a Research Assistant at SMPA and has interned for El Vocero de Puerto Rico and the Center for the New Economy.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His interests include music, film, narrative journalism, and investigative journalism. He has produced a short documentary film following a local band from GW and loves to play Super Smash Bros. in his free time.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
