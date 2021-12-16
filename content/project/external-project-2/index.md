@@ -1,5 +1,5 @@
 ---
-title: "El Vocero Article"
+title: El Vocero Article
 summary: One of the various articles I wrote during my time at El Vocero. You can find more by clicking on my name on the web page.
 tags:
 - Demo
