@@ -69,6 +69,6 @@ highlight_name: true
 
 Gabriel Bras-Nevares is a student of Journalism and Mass Communication at The George Washington University's School of Media and Public Affairs. He currently works as a Research Assistant at SMPA and has interned for El Vocero de Puerto Rico and the Center for the New Economy.
 
-His interests include music, film, narrative journalism, and investigative journalism. He has produced a short documentary film following a local band from GW and loves to play Super Smash Bros. in his free time.
+His interests include music, film, narrative journalism, and investigative journalism. He has produced a short documentary film following a local band from GW and loves to play Super Smash Bros. and produce music in his free time.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
